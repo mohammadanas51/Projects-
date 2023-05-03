@@ -1,4 +1,4 @@
-#Python program to build a mini calculator 
+# Mini Project in python to build a calculator 
 first = input("Enter the first number : ")
 second = input("Enter the second number : ") 
 operator = input("Enter the operator(+,-,*,/,%) : ")
