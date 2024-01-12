@@ -1,5 +1,5 @@
 # Stone Paper Scissor game using python
-
+# this is a sample comment to modify this file 
 # Function to decide wether the user wins or not 
 def gamewin(comp, you) :
     if comp == you :
